@@ -57,6 +57,7 @@ div#formulario > h1 {
 div#formulario > p {
     text-align: center;
     font-size: 0.8em;
+    margin: 15px;
 }
 
 form > div.campo {
