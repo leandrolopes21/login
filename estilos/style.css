@@ -39,7 +39,7 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-harrisonhaines-2869565.jpg) no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     height: 200px;
 }
 
