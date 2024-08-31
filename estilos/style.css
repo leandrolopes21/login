@@ -72,6 +72,7 @@ form > div.campo {
 form > div.campo > input {
     margin-block: auto;
     width: 80%;
+    height: 70%;
 }
 
 form > input[type=submit] { /* Campo entrar */
